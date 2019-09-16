@@ -1,1 +1,3 @@
 this is about the change status and commit of git
+following by the branching and merging
+
